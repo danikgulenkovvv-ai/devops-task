@@ -1,0 +1,5 @@
+.env
+my_logs
+Dockerfile
+docker-compose.yml
+__pycache__
